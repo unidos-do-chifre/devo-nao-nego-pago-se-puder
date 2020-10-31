@@ -9,7 +9,7 @@ import {SView} from "components";
 const App = () => {
   return (
       <ThemeProvider theme={theme}>
-        <SView background="accentDark" mt="medium">
+        <SView backgroundColor="accentDark" mt="medium">
 
         </SView>
     </ThemeProvider>
